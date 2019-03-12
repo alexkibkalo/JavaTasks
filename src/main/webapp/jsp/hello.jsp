@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Hello from Spring!</h1>
-    <form action="/hello" method="post">
+    <form action="/spring" method="post">
         <input type="text" name="name">
         <input type="submit" name="btn" value="send">
     </form>
